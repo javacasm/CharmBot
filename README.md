@@ -13,7 +13,7 @@ Usa como base la famosa [torreta de "ElTitoManolo" ](https://www.thingiverse.com
 
 Diseño en progreso en [Tinkercad](https://www.tinkercad.com/things/hTRtqqWvilr)
 
-![estructura](images/cabezon.jpg )
+![estructura](images/cabezon.png )
 
 ![imagen](images/cabezonSombrero.jpg )
 
