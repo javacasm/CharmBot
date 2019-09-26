@@ -9,11 +9,13 @@ Inspirado en la idea de ...
 
 Usa como base la famosa [torreta de "ElTitoManolo" ](https://www.thingiverse.com/thing:2467743)
 
+![Torreta](https://cdn.thingiverse.com/renders/6a/51/9b/d1/b1/bc6b9e66128f97b17aba53b40d7eb409_preview_featured.jpg)
+
 Diseño en progreso en [Tinkercad](https://www.tinkercad.com/things/hTRtqqWvilr)
 
-![estructura](https://api-reader.tinkercad.com/api/images/bcSG9WxyusP/t725.jpg)
+![estructura](images/cabezon.jpg )
 
-![imagen](https://api-reader.tinkercad.com/api/images/4Rr7ZL0WBFN/t725.jpg)
+![imagen](images/cabezonSombrero.jpg )
 
 ## Electrónica
 
